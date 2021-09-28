@@ -1,7 +1,21 @@
-# Getting Started with Create React App
+## Accordion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
 
+   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-blueviolet?style=for-the-badge&logo=visualstudiocode)
+![ReactJS](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react)
+![Javascript](https://img.shields.io/badge/-JavaScript-critical?style=for-the-badge&logo=JAVASCRIPT)
+
+
+</p>
+
+<br/>
+<br/>
+
+## Description
+### Many apps in one
+
+<br/>
 ## Available Scripts
 
 In the project directory, you can run:
